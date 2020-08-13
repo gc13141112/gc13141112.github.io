@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>叩一人</title>
+    <link>https://gc13141112.github.io/</link>
+    <description>Recent content on 叩一人</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gc13141112.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spatiotemporal characteristics of ozone pollution and policy implications in Northeast China</title>
+      <link>https://gc13141112.github.io/about/publications/presentations/ppt03/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc13141112.github.io/about/publications/presentations/ppt03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中国生物源挥发性有机物(BVOCs)时空排放特征研究</title>
+      <link>https://gc13141112.github.io/about/publications/presentations/ppt02/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc13141112.github.io/about/publications/presentations/ppt02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Distribution of Satellite-Retrieved Ground-Level PM2.5 and Near Real-Time Daily Retrieval Algorithm Development in Sichuan Basin, China</title>
+      <link>https://gc13141112.github.io/about/publications/presentations/ppt01/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc13141112.github.io/about/publications/presentations/ppt01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emission_process</title>
+      <link>https://gc13141112.github.io/about/projects/contributions/emission_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc13141112.github.io/about/projects/contributions/emission_process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model2gis</title>
+      <link>https://gc13141112.github.io/2020/08/12/model2gis/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc13141112.github.io/2020/08/12/model2gis/</guid>
+      <description>GIS!!!</description>
+    </item>
+    
+    <item>
+      <title>Learn English</title>
+      <link>https://gc13141112.github.io/2020/08/11/Learn-English/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc13141112.github.io/2020/08/11/Learn-English/</guid>
+      <description>Learn English!!!</description>
+    </item>
+    
+    <item>
+      <title>Learn English</title>
+      <link>https://gc13141112.github.io/2020/08/11/Learn-English/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc13141112.github.io/2020/08/11/Learn-English/</guid>
+      <description>GIS!!!</description>
+    </item>
+    
+  </channel>
+</rss>
