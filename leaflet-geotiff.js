@@ -276,7 +276,7 @@ L.LeafletGeotiff = L.ImageOverlay.extend({
                     canvas: plottyCanvas,
                     useWebGL: false,
                 });
-                plot.setNoDataValue(9999999); 
+                plot.setNoDataValue(-9999); 
                 plot.render();
 
                 this.colorScaleData = plot.colorScaleCanvas.toDataURL();            
