@@ -77,7 +77,7 @@
         } else {
             marker.setLatLng([e.latlng.lat,e.latlng.lng]);
         }
-        document.getElementById("windSpeedValue").innerHTML = windSpeed.getValueAtLatLng(e.latlng.lat,e.latlng.lng).toFixed(1);
+        document.getElementById("windSpeedValue").innerHTML = windSpeed.getValueAtLatLng(e.latlng.lat,e.latlng.lng).toFixed(0);
     });
    
 </script>  
